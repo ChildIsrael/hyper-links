@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lag="en">
+<head>
+	<title>Links_Different_pages</title>
+	<meta charset="utf-8">
+	<link  rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+	<h1> CONTACT</h1>
+	
+	<nav>
+		<ul>
+			<li><a href="../index.html">Home</a></li>
+			<li><a href="about/contact_us.html">Contact</a></li>
+			<li><a href="">Our_values</a></li>
+			<li><a href="" >Media</a></li>
+			<li><a href="">Press</a></li>
+			<li><a href="">lOcation</a></li>
+			<li><a href="">Benefits</a></li>
+			<li><a href="">Culture</a></li>
+			
+		</ul>
+	</nav>
+
+
+</body>
+</html>

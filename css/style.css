@@ -1,0 +1,12 @@
+body{
+	background-color: 
+}
+li{
+	margin: 10px;
+	display: inline;
+	font-size: 35px;
+}
+a{
+	color: pink;
+	font-weight: bold;
+}
